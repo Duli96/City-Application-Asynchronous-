@@ -1,0 +1,4 @@
+Python==3.8.10
+Flask==2.1.1
+Werkzeug== 2.1.1
+Connexion==2.13.0
